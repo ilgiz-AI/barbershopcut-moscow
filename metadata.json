@@ -1,0 +1,6 @@
+{
+  "name": "ARISTOCRAT Barbershop Moscow",
+  "description": "Премиальный барбершоп в центре Москвы. Искусство мужского стиля, безупречный сервис и атмосфера закрытого клуба.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
